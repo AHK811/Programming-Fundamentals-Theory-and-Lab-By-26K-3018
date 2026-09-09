@@ -6,3 +6,4 @@ int main()
     float marks = 85.5;
     printf("Age = %d, Marks = %.2f", age, marks);
 }
+
