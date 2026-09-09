@@ -6,3 +6,5 @@ int main()
     scanf("%d", &age);
     printf("Your are %d years old\n", age);
 }
+
+
