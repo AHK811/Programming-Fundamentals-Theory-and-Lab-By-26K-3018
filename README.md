@@ -26,5 +26,6 @@
 | **Semester** | 1st Semester |
 | **Course** | Programming Fundamentals |
 | **Language** | C |
+| **Email** | Ak.brothers.811@gmail.com |
 
 </div>
