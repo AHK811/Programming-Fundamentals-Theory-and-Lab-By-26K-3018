@@ -1,10 +1,24 @@
+<div align = 'center'>
+  
 # WEEK 5
+
 Lab examples, code demos, and assignment tasks for Week 5.
 
-# Folder Contents
+</div>
+
+## Folder Contents
 In Lab 5/ — All lab examples and code demonstrations.
 
-# Open Code 
-Current Folder (./) 
-T1 - task 1 and the remaining 2
-with terminal output screenshots 
+<pre>
+  
+WEEK 5/
+|
+├── In Lab/          # Examples given in Lab 
+├── IN LAB (GCR)/    # 3 Tasks that were given in Lab
+├── Post Lab (GCR)/  # 4 Tasks that were given as Homework for practice
+└── README.md
+
+</pre>
+
+
+
